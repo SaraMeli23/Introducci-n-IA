@@ -1,4 +1,4 @@
-# Introducci-n-IA
+# Introducción-IA
 # ENTREGA 1
 
 ## Integrantes del equipo
