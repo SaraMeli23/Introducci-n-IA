@@ -12,3 +12,5 @@
 - Sara Melissa Villada Castro
   1000919392
   Ingenieria Industrial
+  
+## Entrega 2: https://youtu.be/UTHoMth_AZo 
