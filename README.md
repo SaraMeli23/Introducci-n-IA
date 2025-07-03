@@ -14,3 +14,5 @@
   Ingenieria Industrial
   
 ## Entrega 2: https://youtu.be/UTHoMth_AZo 
+
+## Entrega 3:
